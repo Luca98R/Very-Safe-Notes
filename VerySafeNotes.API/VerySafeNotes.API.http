@@ -1,0 +1,6 @@
+@VerySafeNotes.API_HostAddress = http://localhost:5196
+
+GET {{VerySafeNotes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
